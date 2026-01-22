@@ -42,7 +42,7 @@
       "paragraph3": "Don't consider yourself a game dev? No problem - we have tons of online and in-person workshops for you to make your first game!",
       "paragraph4": "This winter, we invite you to learn something new, make something you're really proud of, meet new friends, and go on an incredible adventure together.",
       "closing": "With love,",
-      "signature": "The Campfire Bangkok Team"
+      "signature": "The Campfire Team"
     },
     "footer": {
       "tagline": "made with love by Hack Club & Open Sauce",
@@ -58,18 +58,28 @@
     }
   },
   "event": {
-    "city": "Bangkok",
+    "city": "Shelburne",
     "date": "Feb 28 - Mar 1, 2026",
     "venue": {
-      "name": "Venue TBA",
-      "link": "https://campfire.hackclub.com/bangkok"
+      "name": "Hack Club HQ",
+      "link": "https://www.google.com/maps/place/Hack+Club/@44.380961,-73.2299918,877m/data=!3m1!1e3!4m10!1m2!2m1!1shack+club+hq!3m6!1s0x4cca7df09a009e9b:0xd3a527022dfe1a3e!8m2!3d44.380558!4d-73.2270953!15sCgxoYWNrIGNsdWIgaHFaDiIMaGFjayBjbHViIGhxkgEXbm9uX3Byb2ZpdF9vcmdhbml6YXRpb26aASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUk1jM0pQUldGbkVBReABAPoBBAgeEC8!16s%2Fg%2F11rrjxqpl6?entry=ttu&g_ep=EgoyMDI2MDExOS4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D"
     },
     "schedule": {
       "days": [
         {
           "date": "Feb 28th",
           "items": [
-            { "time": "12:00 AM", "activity": "To be announced" },
+            { "time": "7:45 AM", "activity": "Doors open" },
+            { "time": "8:00-8:45 AM", "activity": "Icebreakers" },
+            { "time": "9:00-9:45 AM", "activity": "Opening Ceremony" },
+            { "time": "10:15 AM-12:15 PM", "activity": "Godot Workshop" },
+            { "time": "12:45-1:45 PM", "activity": "Lunch" },
+            { "time": "2:00-3:00 PM", "activity": "Ren'py Workshop" },
+            { "time": "3:00-3:30 PM", "activity": "Hackathon Hosting 101 With Hack Canada" },
+            { "time": "4:00-4:15 PM", "activity": "Typing Contest" },
+            { "time": "6:00-7:00 PM", "activity": "Project Pitch and Dinner" },
+            { "time": "6:45-7:30 PM", "activity": "Just Dance" },
+            { "time": "7:35-7:45 PM", "activity": "Semi-Closing" }
           ]
         }
       ]
