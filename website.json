@@ -64,7 +64,16 @@
       "name": "Venue TBA",
       "link": "https://campfire.hackclub.com/bangkok"
     },
-    "schedule": "To Be Announced",
+    "schedule": {
+      "days": [
+        {
+          "date": "Feb 28th",
+          "items": [
+            { "time": "12:00 AM", "activity": "To be announced" },
+          ]
+        }
+      ]
+    },
     "sponsors": {
       "cards": [
         {
