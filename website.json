@@ -67,12 +67,7 @@
     "schedule": {
       "days": [
         {
-          "date": "Feb 28th",
-          "items": [
-            { "time": "12:00 AM", "activity": "Doors open" },
-            { "time": "12:00-1:00 AM", "activity": "Icebreakers" },
-            { "time": "0:00-7:45 PM", "activity": "Semi-Closing" }
-          ]
+          "date": "to be announced ^_^",
         }
       ]
     },
