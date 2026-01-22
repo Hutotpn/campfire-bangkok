@@ -68,8 +68,9 @@
       "days": [
         {
           "date": "to be announced ^_^",
-        }
-      ]
+          "items": [
+            { "time": "0:00-7:45 PM", "activity": "Semi-Closing" }
+          ]
     },
     "sponsors": {
       "cards": [
