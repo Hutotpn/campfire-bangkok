@@ -29,7 +29,7 @@
       "title": "Signatures"
     },
     "steps": {
-      "step1": "Sign up for a **Campfire** near you",
+      "step1": "Sign up for a **Campfire Bangkok**",
       "step2": "Grab **friends** (or make new friends!) and __form a__ **team of 2-3**",
       "step3": "Learn from **workshops**, enjoy __free food and merch!__",
       "step4": "**Build** your game & **publish** it on itch.io!",
@@ -58,11 +58,11 @@
     }
   },
   "event": {
-    "city": "Shelburne",
+    "city": "Bangkok",
     "date": "Feb 28 - Mar 1, 2026",
     "venue": {
-      "name": "Hack Club HQ",
-      "link": "https://www.google.com/maps/place/Hack+Club/@44.380961,-73.2299918,877m/data=!3m1!1e3!4m10!1m2!2m1!1shack+club+hq!3m6!1s0x4cca7df09a009e9b:0xd3a527022dfe1a3e!8m2!3d44.380558!4d-73.2270953!15sCgxoYWNrIGNsdWIgaHFaDiIMaGFjayBjbHViIGhxkgEXbm9uX3Byb2ZpdF9vcmdhbml6YXRpb26aASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUk1jM0pQUldGbkVBReABAPoBBAgeEC8!16s%2Fg%2F11rrjxqpl6?entry=ttu&g_ep=EgoyMDI2MDExOS4wIKXMDSoKLDEwMDc5MjA2N0gBUAM%3D"
+      "name": "awaiting venue",
+      "link": "javascript:alert('we don't know')"
     },
     "schedule": {
       "days": [
@@ -93,7 +93,7 @@
         }
       ]
     },
-    "signatures": false,
+    "signatures": true,
     "faq": {
       "title": "FAQ",
       "participant": {
