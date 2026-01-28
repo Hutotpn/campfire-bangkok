@@ -5,8 +5,8 @@ export function middleware(req: NextRequest) {
 
   const redirects: Record<string, string> = {
     "/donate": "https://hcb.hackclub.com/donations/start/campfire-bangkok",
-    "/slack": "/https://hackclub.enterprise.slack.com/archives/C09TDQAQS9H",
-    "/email": "mailto:bangkok@campfire.hackclub.com",
+    "/slack": "https://hackclub.enterprise.slack.com/archives/C09TDQAQS9H",
+    "/signup": "https://campfire.hack.club/43",
   };
 
   if (pathname in redirects) {
