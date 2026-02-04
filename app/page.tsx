@@ -1,12 +1,18 @@
+import Image from "next/image";
+
 export default function Home() {
   return (
     <>
       <footer className="relative flex flex-col z-0 -mt-80">
-        <img
-          src="/backgrounds/footer-background.webp"
-          alt=""
-          className="w-full h-[50vw] object-bottom object-cover select-none scale-105"
-        />
+        <div className="relative w-full h-[50vw]">
+          <Image
+            src="/backgrounds/footer-background.webp"
+            alt="footer background"
+            fill
+            className="object-cover object-bottom select-none scale-105"
+            sizes="100vw"
+          />
+        </div>
 
         <div className="relative w-full px-4 pb-32 md:pb-16 md:px-0 bg-[#0f371d] -mt-3 flex flex-col items-center justify-center gap-16 md:gap-6 z-10">
           <p
