@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <>
+    <div className="w-full min-h-screen flex flex-col overflow-x-hidden">
       <footer className="relative flex flex-col z-0 -mt-80">
         <div className="relative w-full h-[50vw]">
           <Image
@@ -99,6 +99,6 @@ export default function Home() {
           </div>
         </div>
       </footer>
-    </>
+    </div>
   );
 }
