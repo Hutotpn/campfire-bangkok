@@ -69,9 +69,10 @@
         {
           "date": "to be announced ^_^",
           "items": [
-            { "time": "0:00-00:00 AM", "activity": "uhh…" }]
-}
+            { "time": "0:00-00:00 AM", "activity": "uhh…" }
           ]
+        }
+      ]
     },
     "sponsors": {
       "cards": [
@@ -110,32 +111,6 @@
           }
         ],
         "buttonText": "Check out the parent guide"
-      },
-      "organizer": {
-        "title": "Organizer",
-        "questions": [
-          {
-            "question": "Can I organize a Campfire in my city?",
-            "answer": "Absolutely! We're always looking for passionate organizers. If you're ready to bring the magic of game development to your community, we'd love to help."
-          },
-          {
-            "question": "What are the steps to organizing?",
-            "answer": "First, apply through our organizer form. Then we'll guide you through venue booking, team building, workshop planning, and day-of coordination."
-          },
-          {
-            "question": "Do we get funding?",
-            "answer": "Yes! Hack Club provides funding for venue, food, swag, and other event costs. We want to remove financial barriers for amazing events."
-          },
-          {
-            "question": "Do we get volunteer hours?",
-            "answer": "Many schools accept organizing hours as community service. Check with your school's requirements - we can provide documentation."
-          },
-          {
-            "question": "Can I join an organizing team?",
-            "answer": "Of course! Many cities have organizing teams. Reach out to organizers in your area or apply to join an existing team."
-          }
-        ],
-        "buttonText": "Apply to be an organizer"
       }
     }
   }
