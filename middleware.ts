@@ -8,6 +8,7 @@ export function middleware(req: NextRequest) {
     "/slack": "https://hackclub.enterprise.slack.com/archives/C09TDQAQS9H",
     "/signup": "https://forms.hackclub.com/campfire-signup?r=43&event=reciiOJhwrjpdog92",
     "/bookings": "https://calendar.app.google/ZL5piVrDWUDyYRme7",
+    "/slack/huto": "https://hackclub.enterprise.slack.com/archives/C09TDQAQS9H",
   };
 
   if (pathname in redirects) {
